@@ -8,21 +8,8 @@
       ],
       "areas_for_improvement": [
         {
-          "aspect": "Technical Knowledge",
-          "points": [
-            {
-              "topic": "Exception Handling",
-              "feedback": "The candidate’s response about Java exception handling was basic, lacking details on checked vs unchecked exceptions, or the role of finally blocks."
-            },
-            {
-              "topic": "Polymorphism",
-              "feedback": "The candidate's understanding of polymorphism was very vague. They couldn't explain its usage in programming or how it enables method overriding/overloading."
-            },
-            {
-              "topic": "Database Indexes",
-              "feedback": "While the candidate understood the general purpose of indexes in databases (improving performance), they lacked depth on types of indexes (e.g., B-tree) and the importance of choosing appropriate indexes."
-            }
-          ]
+          "aspect": "Technical Knowledge"
+
         },
         {
           "aspect": "Communication Skills",
