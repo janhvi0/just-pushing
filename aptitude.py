@@ -4,7 +4,7 @@ import re
 import time
 
 # Configure the Gemini API
-genai.configure(api_key="AIzaSyD-5J4tX-A8xclZEggNedMUoaYk8SMeSuw")
+genai.configure(api_key="api-key")
 model = genai.GenerativeModel("gemini-1.5-flash")
 
 prompts_file = r"G:\Bootcoding\aptitude_que_generator\Prompt_json\test.json"
