@@ -18,11 +18,17 @@ node3.next=node4
 head = node1
 current =head
 
+#traversing the linked list
 while current is not None:
     print(current.data, end="-->")
     current = current.next
 print("None")
 
+#inserting a node at the beginning of the linked list
+
+new_node = Node(50)
+new_node.next=head
+head=new_node
 
 
         

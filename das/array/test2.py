@@ -23,3 +23,5 @@ print(sort_array(arr))
 # linkdlist
 
 
+s= "hello world how are you"
+st=s.split()

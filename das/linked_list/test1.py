@@ -21,3 +21,8 @@ def palindrome(num):
     while num!=0:
         rem=rem*10+num%10
         num=num//10
+
+
+
+
+
